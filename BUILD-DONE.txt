@@ -1,0 +1,9 @@
+Lead Decay Model build complete
+Test count: 47 passed (pytest, 0.70 seconds).
+Local tested implementation commit: fb6b8b2fa43252521a531e7aeac860f89597d4eb
+Branch: main
+Installed CLI full fixture demo: 0.812627 seconds, below the 5 second acceptance limit.
+
+Built a CPU-only, local-file Python CLI with fixtures, run, report, cold and assess subcommands, pure deterministic inactivity calculations, explicit schema validation, named errors and atomic report writes. The labelled 200-record synthetic fixture and independent hand-computed expectations verify exact classifications, zero false positives, reconciled integer amounts and byte-identical results. Included the hand-written five-record example, complete README, acceptance evidence, lessons and the two-week improvement hook. Real-world utility and the final operational verdict remain pending actual real use. No publishing was performed.
+
+The commit above contains all tested implementation and evidence; this completion record is committed separately so it can reference an existing immutable local commit without a self-referential hash.
