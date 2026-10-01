@@ -1,0 +1,6 @@
+# synthetic: true; hand-written illustrative five-record example
+{"id":"tiny-1","name":"Illustrative recent contact","last_contact":"2026-09-30","amount_minor":100,"synthetic":true,"entered_by":"hand-written example"}
+{"id":"tiny-2","name":"Illustrative active boundary","last_contact":"2026-09-24","amount_minor":200,"synthetic":true,"entered_by":"hand-written example"}
+{"id":"tiny-3","name":"Illustrative cooling boundary","last_contact":"2026-09-23","amount_minor":300,"synthetic":true,"entered_by":"hand-written example"}
+{"id":"tiny-4","name":"Illustrative cold boundary","last_contact":"2026-09-16","amount_minor":400,"synthetic":true,"entered_by":"hand-written example"}
+{"id":"tiny-5","name":"Illustrative older contact","last_contact":"2026-09-01","amount_minor":500,"synthetic":true,"entered_by":"hand-written example"}

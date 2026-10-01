@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lead-decay-model"
+version = "0.1.0"
+description = "Deterministic opportunity inactivity classification"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+ldm = "lead_decay_model.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
